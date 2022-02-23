@@ -11,8 +11,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.itsnicecraft.eu
   # baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: status
+  logoUrl: https://i.ibb.co/FHsqdYy/face.png
+  name: Server Status
   introTitle: "**ItsNiceCraft Server Status**"
   # introMessage: This site displays the status of my services!
   navbar:
